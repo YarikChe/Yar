@@ -1,1 +1,1 @@
-string = ""
+print("world")
